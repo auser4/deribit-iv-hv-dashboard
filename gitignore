@@ -1,0 +1,4 @@
+deribit_snapshots.sqlite3
+__pycache__/
+*.pyc
+.env
